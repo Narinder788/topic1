@@ -1,13 +1,12 @@
-body {
-    background-color: lightblue;
-    }
-    
-    h1 {
-    color: white;
-    text-align: center;
-    }
-    
-    p {
+body
+   {
+    background-image: linear-gradient(rgba(118, 174, 182, 0.575), rgba(191, 138, 202, 0.5)),
+    url("best.gif");
+
+   } 
+  
+    p 
+    {
     font-family: verdana;
     font-size: 20px;
     }
